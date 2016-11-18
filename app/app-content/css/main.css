@@ -1,0 +1,148 @@
+form{
+  display: inline;
+}
+.navigate{
+  position: fixed;
+  width: 100%;
+  background-color: rbga(0,0,0,.5);
+}
+#top{
+    position: fixed;
+    width: 40px;
+    height: 35px;
+    text-align: center;
+    background: #3b454a;
+    bottom: 0px;
+    right: 40px;
+    padding-top: 15px;
+
+}
+#final{
+  margin-top: 100px;
+}
+ul{
+  display: inline;
+}
+.nav-li{
+  margin-top: 10px; 
+  padding: 30px;
+  font-family: monospace;
+  font-size: 25px;
+  padding-top: 10px;
+}
+li a:hover {
+    background-color: #111;
+    text-decoration: none;
+    color: cyan;
+}
+li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li {
+    display: inline;    
+}
+
+#pad{
+  padding: 10px;
+} 
+
+img {
+    max-width: 70%;
+    height: auto;
+    border-radius: 10px;
+}
+html,body{
+  height: 100%;
+}
+body {
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat:no-repeat;
+    -moz-background-size: 100%;
+    -moz-border-radius: 20px;
+    -webkit-background-size: 100%;
+    -webkit-border-radius: 20px;
+    background-size: cover;
+    color: rgba(255, 255, 255, 0.7);
+}
+#nav1 {
+	display: inline-block;
+}
+#nav1 li a:hover {
+    color: #c00;
+    text-align:center;
+    background-color: #fff;}
+.sect{
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    z-index: -1;
+}
+.subsect{
+    height: 70%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.sectOne{
+    background-color: black;
+    background-position: center;    
+}
+.sectTwo{
+  color:black;
+  font-size: 40px;
+}
+
+/*#skill{
+  display: inline;
+  position: relative; 
+  top:140px; 
+  font-family: 'PlutoSansThin';
+  font-size: 30px;
+*/
+}
+
+#nav{
+  width: 100%;
+  height: 40px;
+  background-color: #333;;
+  color: white;
+  z-index: 10;
+}
+
+h1{
+  text-align: center;
+}
+
+.tiles{
+  width: 100%;
+  height: 100%;
+}
+
+.textHover{
+  display: none;
+  text-align: center;
+  padding-top:65px;
+}
+
+.col-md-4:hover .textHover {
+    display:block;
+}
+.col-md-4:hover h1 {
+    display: none;
+}
+
+.proimg{
+  margin-left: 30px;
+  margin-top: 50px;
+  align-content: center;
+  width: 120%;
+  height: 120%;
+}
