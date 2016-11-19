@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="Слой_1" enable-background="new 0 0 48 48" viewBox="0 0 48 48" x="0px" y="0px" width="48px" height="48px" version="1.1" xmlns:xml="http://www.w3.org/XML/1998/namespace" xml:space="preserve" xmlns:xlink="http://www.w3.org/1999/xlink">
-<path fill="#0288d1" d="M 42 37 c 0 2.762 -2.238 5 -5 5 H 11 c -2.761 0 -5 -2.238 -5 -5 V 11 c 0 -2.762 2.239 -5 5 -5 h 26 c 2.762 0 5 2.238 5 5 V 37 Z" />
-<g>
-	<rect fill="#ffffff" x="12" y="19" width="5" height="17" />
-	<path fill="#ffffff" d="M 14.485 17 h -0.028 C 12.965 17 12 15.888 12 14.499 C 12 13.08 12.995 12 14.514 12 c 1.521 0 2.458 1.08 2.486 2.499 C 17 15.887 16.035 17 14.485 17 Z" />
-	<path fill="#ffffff" d="M 36 36 h -5 v -9.099 c 0 -2.198 -1.225 -3.698 -3.192 -3.698 c -1.501 0 -2.313 1.012 -2.707 1.99 C 24.957 25.543 25 26.511 25 27 v 9 h -5 V 19 h 5 v 2.616 C 25.721 20.5 26.85 19 29.738 19 c 3.578 0 6.261 2.25 6.261 7.274 L 36 36 L 36 36 Z" />
-</g>
-</svg>
